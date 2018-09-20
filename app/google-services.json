@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396176939696",
+    "firebase_url": "https://cadastro-15962.firebaseio.com",
+    "project_id": "cadastro-15962",
+    "storage_bucket": "cadastro-15962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396176939696:android:08e7220001a85b62",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.firebaseapp.firebasecadastro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396176939696-2spqaisskcnifj9ncb86bpmns7f7tt19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.firebaseapp.firebasecadastro",
+            "certificate_hash": "d40a6c95465f80788a855a989b8ee704b82e2c50"
+          }
+        },
+        {
+          "client_id": "396176939696-sheqe1ha023oc09qsqugm55543tlfquf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA_ZuouX4i--tzbvXGt0Ut8Z1lNcgCru0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396176939696-sheqe1ha023oc09qsqugm55543tlfquf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
