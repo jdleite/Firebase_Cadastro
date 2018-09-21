@@ -63,4 +63,44 @@
         tools:layout_editor_absoluteX="84dp"
         tools:layout_editor_absoluteY="83dp" />
 
+    <RadioGroup
+        android:id="@+id/rdgId"
+        android:layout_width="148dp"
+        android:layout_height="117dp"
+        android:layout_alignEnd="@+id/btnCadaId"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="144dp"
+        android:layout_marginEnd="52dp">
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cadastrar" />
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Logar" />
+
+        <RadioButton
+            android:id="@+id/radioButton5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Deslogar" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/txtLogId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginTop="16dp"
+        android:text="Usuário logado :" />
+
 </RelativeLayout>
